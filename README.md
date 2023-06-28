@@ -1,6 +1,6 @@
 ![Untitled](https://github.com/Monil-Karia/CS50x-Python-2023/assets/90109071/ad7e02b5-7aed-410f-ad78-4a7ee4ae2feb)
-# 💫 About Me:
-I am a B.tech 3rd year CSE student specializing in Network and Security from MIT ADT University, Pune. As<br>said 'In a world of possibilities, I engineer the sky'. Passionate and curious about new technologies and<br>getting the most out of them. I also like to learn new technologies, services, and frameworks in Cloud and Python.<br>I like to Collaborate on any project related to my tech stack, <br>Always welcome new projects and Contributions to open source.<br><br>
+# 😶‍🌫️ About Me:
+I am a passionate third-year B.Tech student specializing in Network and Security at MIT ADT University, Pune. With a strong belief in the power of technology, I constantly seek out new opportunities to learn and grow. My interests lie in exploring Cloud and Python, and I am always open to collaborating on projects within my expertise. Additionally, I actively contribute to the open-source community. Let's engineer a future filled with innovation and secure solutions together!<br><br>
 
 
 ## 🌐 Socials:
