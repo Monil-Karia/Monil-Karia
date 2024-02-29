@@ -1,8 +1,9 @@
 <!-- ![coding_2](https://github.com/Monil-Karia/Monil-Karia/assets/90109071/8e319cea-8ac1-42c4-b978-cebe6e354692) -->
 # 😶‍🌫️ About Me:
-I am a passionate fourth-year B.Tech student specializing in Network and Security at MIT ADT University, Pune. With a strong belief in the power of technology, I constantly seek out new opportunities to learn and grow. My interests lie in exploring Cloud and Python, and I am always open to collaborating on projects within my expertise. Additionally, I actively contribute to the open-source community. Let's engineer a future filled with innovation and secure solutions together!<br><br>
+Level 1 Coder :(
+<br><br>
 
-Reach out - [Website](https://monilcodewizard.netlify.app/) (Currently working on the responsiveness of the Website)
+Reach out - [Website](https://monilcodes.netlify.app/) (Currently working on the responsiveness of the Website)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/monil-karia) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@monilkaria2019) 
